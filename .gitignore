@@ -1,0 +1,7 @@
+# Secrets: never upload these to GitHub
+token.txt
+.env
+
+
+# Python cache files
+__pycache__/
